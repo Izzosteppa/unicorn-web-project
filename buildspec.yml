@@ -21,4 +21,6 @@ artifacts:
     - target/unicorn-web-project.war
     - appspec.yml
     - scripts/**/*
+    - Dockerfile
+    - buildspec_docker.yml
   discard-paths: no
